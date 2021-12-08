@@ -1,2 +1,2 @@
 # adaptiveCardTestAutomationReport
-## MS Teams Incoming Webhook
+## MS Teams Incoming Webhook for Adaptive Cards
